@@ -412,6 +412,8 @@ body {
 
 .border-text {
   margin-top: -5px;
+  padding-left: 24px;
+  padding-right: 24px;
   height: 110px;
   border: 1px solid #EEEEEE;
 }
